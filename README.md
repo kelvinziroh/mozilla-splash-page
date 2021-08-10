@@ -29,3 +29,5 @@ Example:
 </picture>
 ```
 
+You can learn more on the [Responsive images MDN article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images).
+
